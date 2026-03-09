@@ -23,6 +23,7 @@ print(f"{item1} X {quantity1}: \u00A3{item1_total:.3f}")
 print(f"{item2} X {quantity2}: \u00A3{item2_total:.3f}")
 print(f"{item3} X {quantity3}: \u00A3{item3_total:.3f}")
 print(f"The total amount of the items is: \u00A3{total_amount:.3f}")
+print("New addition")
 
 
 
