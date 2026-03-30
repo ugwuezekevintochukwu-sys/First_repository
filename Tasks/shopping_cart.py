@@ -25,5 +25,7 @@ print(f"{item3} X {quantity3}: \u00A3{item3_total:.3f}")
 print(f"The total amount of the items is: \u00A3{total_amount:.3f}")
 print("New addition")
 
+# Conlcusion
+
 
 
